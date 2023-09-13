@@ -1,18 +1,20 @@
-# Caramel Macchiato
+# Caramel Ginger Macchiato
 
-## Description: Make it frothy with a mix of smooth vanilla and velvety caramel for the perfect amount of sweetness. Top it off with a drizzle of caramel for a coffee that tastes as delicious as it looks
+## Description: Make it frothy with a mix of smooth vanilla and velvety caramel for the perfect amount of sweetness. Top it off with a drizzle of caramel for a coffee that tastes as delicious as it looks. Served with a cookie.
 
 ## Caramel Sauce Ingredients
 
 - 1/2 cup brown sugar
+- 1 ginger chopped
 - 2 Tbsp butter
+- 1 cup sugar
 - 1/4 cup half-and-half
 - Pinch of salt
 
 ## CARAMEL MACCHIATO
 
 - 1 espresso roast capsule
-- 3/4 cup milk
+- 3/4 cup whole milk
 - 1 Tbsp vanilla syrup
 - Caramel sauce
 
