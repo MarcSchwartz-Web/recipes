@@ -1,12 +1,13 @@
 # Caffé latte
 
-## Description: Standard caffé latte
+## Description: Standard caffé latte. Sarah's favourite!
 
 ## Ingredients
 
 - 1 oz espresso roast
-- 1 cup whole milk
+- 1 cup almond milk
 - Milk frother
+- chocolate sprinkles
 - Optional sweetener
 
 ## How to Make Caffè Latte
